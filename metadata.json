@@ -1,0 +1,10 @@
+{
+  "name": "Remix AI Translator",
+  "description": "Translate text between Urdu, English, Japanese and many other languages with AI. Use voice input and listen to translations with the built-in speaker.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
